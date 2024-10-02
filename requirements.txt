@@ -6,5 +6,5 @@ matplotlib-inline==0.1.6
 streamlit==1.38.0
 protobuf==5.28.2
 openpyxl==3.1.5
-scikit-learn==1.4.1.
+scikit-learn== 1.4.1.post1
 
