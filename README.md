@@ -15,3 +15,7 @@ Valor (V): total de dinheiro gasto nas compras no período.
 ## Bibliotecas utilizadas
 
 Numpy, pandas, matplotlib, seaborn, streamlit. Para mais informações, consultar o documento "requirements.txt"
+
+## Link para acesso ao projeto
+
+https://analise-rfv-rau4.onrender.com
